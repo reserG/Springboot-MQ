@@ -5,7 +5,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.springbootalldemo.dao")
     public class SpringbootMQApplication {
 
     public static void main(String[] args) {
